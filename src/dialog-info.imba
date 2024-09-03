@@ -2,7 +2,7 @@ tag dialog-info
 	prop show_dialog\boolean = no
 
 	get project_url
-		"https://hundreddaysofimba.github.io" + data.url
+		"https://hundreddaysofimba.netlify.app" + data.url
 
 	get github_url
 		"https://github.com/hundreddaysofimba" + data.url
